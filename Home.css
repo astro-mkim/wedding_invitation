@@ -1114,19 +1114,19 @@
 
 @media (max-width: 991px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 343px;
+    min-height: 401px;
   }
 
   .u-section-5 .u-image-1 {
     width: 300px;
     height: 144px;
-    margin-top: 32px;
+    margin-top: 72px;
   }
 
   .u-section-5 .u-image-2 {
     width: 94px;
     height: 117px;
-    margin-top: -176px;
+    margin-top: -216px;
   }
 
   .u-section-5 .u-image-3 {
@@ -1136,8 +1136,8 @@
   }
 
   .u-section-5 .u-layout-wrap-1 {
-    margin-top: 76px;
-    margin-bottom: 37px;
+    margin-top: 116px;
+    margin-bottom: 55px;
   }
 
   .u-section-5 .u-layout-cell-1 {
