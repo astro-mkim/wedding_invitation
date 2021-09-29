@@ -459,6 +459,10 @@
   font-size: 1rem;
 }
 
+.u-section-3 .u-icon-12 {
+  color: rgb(0, 0, 0) !important;
+}
+
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
     min-height: 280px;
