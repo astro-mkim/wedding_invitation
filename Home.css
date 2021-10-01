@@ -1819,19 +1819,20 @@
   .u-section-6 .u-image-1 {
     width: 61px;
     height: 79px;
-    margin-top: 1px;
   }
 
   .u-section-6 .u-image-2 {
     width: 61px;
     height: 79px;
     margin-top: -79px;
+    margin-right: auto;
+    margin-left: 279px;
   }
 
   .u-section-6 .u-image-3 {
     width: 156px;
     height: 81px;
-    margin-top: -22px;
+    margin-top: -21px;
   }
 
   .u-section-6 .u-layout-wrap-1 {
@@ -2622,7 +2623,6 @@
     width: 70px;
     height: 70px;
     margin-top: 32px;
-    margin-right: 175px;
     margin-left: 25px;
   }
 
@@ -2636,7 +2636,6 @@
     width: 70px;
     height: 70px;
     margin-top: -70px;
-    margin-right: 13px;
     margin-left: 245px;
   }
 }.button {
